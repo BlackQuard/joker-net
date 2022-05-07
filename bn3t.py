@@ -15,13 +15,13 @@ nicknm = "desyn"
 methods = """
 \033[35m╔════════════════════════╗
 \033[35m║ \033[36m---- \033[32mMethods List! \033[36m--- \033[35m╚═════════╗
-\033[35m║ \033[93mgen3   \033[36m> \033[32mShows Gen3 Methods!     \033[35m║
-\033[35m║ \033[32mgen2   \033[36m> \033[32mShows Gen2 Methods!     \033[35m║
+\033[35m║ \033[93mgen3   \033[36m> \033[32mShows SpoofUDP Methods!     \033[35m║
+\033[35m║ \033[32mgen2   \033[36m> \033[32mShows SpoofTCP Methods!     \033[35m║
 \033[35m║ \033[32mlayer4 \033[36m> \033[32mShows Layer 4 Methods!  \033[35m║
 \033[35m║ \033[32mlayer7 \033[36m> \033[32mShows Layer 7 Methods!  \033[35m║
 \033[35m║ \033[32mprivate\033[36m> \033[32mShows Private Methods!  \033[35m║
 \033[35m║ \033[32mraw    \033[36m> \033[32mShows Raw Methods!      \033[35m║
-\033[35m║ \033[32mmore   \033[36m> \033[32mShows More Methods!     \033[35m║
+\033[35m║ \033[32mmore   \033[36m> \033[32mShows Layer7 Bypass Methods!     \033[35m║
 \033[35m╚══════════════════════════════════╝
 """
 
